@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SofianPortfolio/static/css/main.1a7fc94a.css",
-    "main.js": "/SofianPortfolio/static/js/main.6af91b6c.js",
+    "main.css": "/SofianPortfolio/static/css/main.839183d0.css",
+    "main.js": "/SofianPortfolio/static/js/main.ecc8099d.js",
     "static/media/reactParallax.jpg": "/SofianPortfolio/static/media/reactParallax.6f0d02a0def925fc9d7f.jpg",
     "static/media/reactWeather.jpg": "/SofianPortfolio/static/media/reactWeather.a1988356c4f5a620716e.jpg",
     "static/media/heroImage.png": "/SofianPortfolio/static/media/heroImage.d53a7fd642863812ec16.png",
@@ -20,11 +20,11 @@
     "static/media/css.png": "/SofianPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/SofianPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/SofianPortfolio/index.html",
-    "main.1a7fc94a.css.map": "/SofianPortfolio/static/css/main.1a7fc94a.css.map",
-    "main.6af91b6c.js.map": "/SofianPortfolio/static/js/main.6af91b6c.js.map"
+    "main.839183d0.css.map": "/SofianPortfolio/static/css/main.839183d0.css.map",
+    "main.ecc8099d.js.map": "/SofianPortfolio/static/js/main.ecc8099d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a7fc94a.css",
-    "static/js/main.6af91b6c.js"
+    "static/css/main.839183d0.css",
+    "static/js/main.ecc8099d.js"
   ]
 }
