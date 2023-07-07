@@ -105,9 +105,7 @@ const apiKey3 = process.env.REACT_APP_API_KEY3;
               </>
             </form>
           ) : (
-            <div className="flex items-center justify-center w-full md:w-1/2">
-              <div className="w-12 h-12 border-4 border-white rounded-full animate-spin"></div>
-            </div>
+            <div class="loader"></div>
           )}
         </div>
 
